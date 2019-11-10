@@ -26,7 +26,7 @@ header{width:100%;
     color: #CEBFB9;
     line-height: 73px}
 
-.box2 .box6{text-align: center;
+.box2,.box6{text-align: center;
     width: 300px;
     margin: 0 auto}
 
@@ -53,10 +53,37 @@ h2{font-size:36px;
     background-color: #C17121}
 .box5 .syou{font-size:10px}
 
+.box7{width: 1280px;
+    margin: 0 auto}
+
+.box7-1,.box7-2,.box7-3,.box7-4,.box7-5,.box7-6{
+    border: solid 1px #71614C;
+    float: left;
+    width: 25%;
+    box-sizing: border-box;
+    
+    
+}
 
 
 
+.box7-1 i{font-size:60px;
+    color: #C17121;}
 
+.box7-2 i{font-size:60px;
+    color: #C17121;}
+
+.box7-3 i{font-size:60px;
+    color: #C17121;}
+
+.box7-4 i{font-size:60px;
+    color: #C17121;}
+
+.box7-5 i{font-size:60px;
+    color: #C17121;}
+
+.box7-6 i{font-size:60px;
+    color: #C17121;}
 
 
 
